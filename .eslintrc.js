@@ -24,7 +24,7 @@ module.exports = {
   rules: {
     'no-console': 'off',
     "react/jsx-filename-extension": 0,
-    "no-use-before-define": 0,
+    "no-use-before-define": 1,
     "jsx-ally/label-has-for": 0,
     "jsx-a11y/anchor-is-valid": ["error", {
       "components": ["Link"],
